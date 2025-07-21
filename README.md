@@ -1,6 +1,6 @@
-# 🎮 GamerZone
+# 🎮 ezzanzouni
 
-**GamerZone** est une plateforme Laravel pour gérer des tournois de jeux vidéo en ligne, avec gestion des rôles (Admin, Organisateur, Joueur) et accès sécurisé.
+**ezzanzouni** est une plateforme Laravel pour gérer des tournois de jeux vidéo en ligne, avec gestion des rôles (Admin, Organisateur, Joueur) et accès sécurisé.
 
 ## Fonctionnalités
 
@@ -20,12 +20,3 @@
 ## Technologies
 
 PHP 8, Laravel 9, MySQL, Laravel Breeze, Blade
-
-## Contact
-
-- GitHub : [Elmehdi37](https://github.com/Elmehdi37) 🐙  
-- LinkedIn : [Mehdi Berrada](https://www.linkedin.com/in/mehdiberrada37/) 💼  
-
----
-
-© 2025 Berrada Mehdi - Tous droits réservés.
