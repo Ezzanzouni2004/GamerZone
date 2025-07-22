@@ -20,3 +20,4 @@
 ## Technologies
 
 PHP 8, Laravel 9, MySQL, Laravel Breeze, Blade
+EZZANZOUNI MARWA
