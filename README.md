@@ -28,4 +28,4 @@ PHP 8, Laravel 9, MySQL, Laravel Breeze, Blade
 
 ---
 
-© 2025 Berrada Mehdi - Tous droits réservés.
+© 2025 marwa - Tous droits réservés.
